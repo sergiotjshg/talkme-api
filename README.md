@@ -36,7 +36,7 @@ dotnet restore
 ```csharp
 dotnet build
 ```
-4. Next, within the AspnetRun.Web directory, launch the back end by running:
+4. Next, within the TalkMe.Io directory, launch the back end by running:
 ```csharp
 dotnet run
 ```
